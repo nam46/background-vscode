@@ -1,0 +1,33 @@
+{
+  "php.suggest.basic": false,
+  "editor.formatOnSave": true,
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "python.formatting.provider": "black",
+  "workbench.colorTheme": "FireFly Pro",
+  "window.zoomLevel": 1,
+  "prettier.printWidth": 240,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSave": "afterDelay",
+
+  "background.enabled": true,
+  "background.loop": false,
+  "background.useDefault": false,
+  "background.useFront": false,
+  "background.style": {
+    "content": "''",
+    "pointer-events": "none",
+    "position": "absolute",
+    "z-index": "99999",
+    "width": "100%",
+    "height": "100%",
+    "background-position": "center",
+    "background-size": "cover",
+    "background-repeat": "no-repeat",
+    "opacity": 0.7
+  },
+  "background.customImages": ["https://i.postimg.cc/2671KNqx/yozoraa.jpg"]
+  // "https://c4.wallpaperflare.com/wallpaper/178/997/302/anime-miagete-goran-yozora-no-hoshi-o-game-cg-hikari-houkiboshi-wallpaper-preview.jpg"
+  //https://c4.wallpaperflare.com/wallpaper/496/237/130/anime-girl-cute-lights-wallpaper-preview.jpg
+}
